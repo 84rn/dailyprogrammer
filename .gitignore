@@ -2,3 +2,6 @@ Debug/
 Release/
 *.obj
 *.exe
+*.suo
+*.sdf
+
